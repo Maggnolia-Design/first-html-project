@@ -18,3 +18,7 @@ body {
    background-color: #bcdbbe;
 }
 
+img {
+   max-width: 100%;
+   height: auto;
+}
