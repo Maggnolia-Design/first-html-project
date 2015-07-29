@@ -1,11 +1,15 @@
 h1 {
    border: 5px solid black;
+   font-family: "futura";
 }
+
 h2 {
    border: 2px solid black;
+   font-family: "futura";
 }
+
 body {
-   margin: auto;
+   margin: 100px 50px;
    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#c9de96+0,8ab66b+44,398235+100;Green+3D+%233 */
    background: #c9de96; /* Old browsers */
    background: -moz-linear-gradient(top,  #c9de96 0%, #8ab66b 44%, #398235 100%); /* FF3.6+ */
